@@ -4,7 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>Meowcoin</span>,
   project: {
-    link: 'https://github.com/meowcoin-foundation/documenation-meowcoin',
+    link: 'https://github.com/meowcoin-foundation/mewc-docs',
   },
   chat: {
     link: 'https://discord.com/invite/meowcoin',
