@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Meowcoin</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/meowcoin-foundation/documenation-meowcoin',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.com/invite/meowcoin',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/meowcoin-foundation/documentation-meowcoin',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Meowcoin Documentation',
   },
 }
 

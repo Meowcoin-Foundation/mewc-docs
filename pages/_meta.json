@@ -1,15 +1,18 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "whitepaper": "Whitepaper",
+  "mining": "Mining Guide",
+  "wallets": "Wallets",
+  "donations": "Donations & Impact",
+  "exchanges": "Exchanges",
   "about": {
     "title": "About",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Discord ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://discord.com/invite/meowcoin",
     "newWindow": true
   }
 }
