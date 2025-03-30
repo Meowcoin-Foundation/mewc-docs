@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meowcoin-foundation/documentation-meowcoin.git"
+    "url": "git+https://github.com/meowcoin-foundation/mewc-docs.git"
   },
   "author": "Zachary Price",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/meowcoin-foundation/documentation-meowcoin/issues"
+    "url": "https://github.com/meowcoin-foundation/mewc-docs/issues"
   },
-  "homepage": "https://github.com/meowcoin-foundation/documentation-meowcoin#readme",
+  "homepage": "https://github.com/meowcoin-foundation/mewc-docs#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
